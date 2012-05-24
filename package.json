@@ -2,7 +2,7 @@
   "name"          : "node-google-detect-translate",
   "description"   : "Simple library for talking to Google's Translate API.",
   "version"       : "0.1.0",
-  "author"        : "Mike Holly",
+  "author"        : "Mike Holly, Matthew Andrews",
   "homepage"      : "http://github.com/mikejholly/node-google-translate",
   "repository"    : {"type" : "git", "url" : "http://github.com/mikejholly/node-google-translate.git"},
   "dependencies"  : ["request", "underscore", "querystring"],
