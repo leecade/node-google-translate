@@ -1,5 +1,5 @@
 {
-  "name"          : "node-google-translate",
+  "name"          : "node-google-detect-translate",
   "description"   : "Simple library for talking to Google's Translate API.",
   "version"       : "0.1.0",
   "author"        : "Mike Holly",
